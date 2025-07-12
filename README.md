@@ -1,2 +1,2 @@
-# Velocity
-Ddosing tool. Skidded from WasVR.
+# 🍃 Velocity
+Velocity is a simple lightweight dosing tool.
